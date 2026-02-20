@@ -106,7 +106,7 @@ a:hover {
         url('img/kory.jpeg');
     background-size: cover;
     background-position: right 25%; 
-    border-bottom: 5px solid #7623d6;
+    /*border-bottom: 5px solid #7623d6;*/
 }
 
 .hero-text h1 {
